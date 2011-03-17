@@ -35,7 +35,7 @@ You can also set a globally scoped icon:
 2. moderate: `GrowlNotify.moderate(:title => 'HELLO WORLD', :description => 'Man that was cool')`
 3. normal: `GrowlNotify.normal(:title => 'HELLO WORLD', :description => 'Man that was cool')`
 4. high: `GrowlNotify.high(:title => 'HELLO WORLD', :description => 'Man that was cool')`
-5 emergency: `GrowlNotify.emergency(:title => 'HELLO WORLD', :description => 'Man that was cool')`
+5. emergency: `GrowlNotify.emergency(:title => 'HELLO WORLD', :description => 'Man that was cool')`
 
 #### Sticky messages
 
