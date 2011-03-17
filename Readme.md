@@ -54,3 +54,14 @@ You can also set a globally scoped icon:
 7. with_name - must me one of your set default notifications by default its set to the first one
 
 
+## Aurthor
+
+  GrowlNotify is written by [Scott Davis](http://sdavis.info)
+  
+  Scott is a Developer for the Space Telescope Science Institute in Baltimore, MD - [Hubble Space Telescope](http://hubblesite.org)
+  
+  [Twitter](http://twitter.com/jetviper21)
+
+## Copyright
+
+Copyright (c) 2011 Scott Davis. See LICENSE.txt for further details.
